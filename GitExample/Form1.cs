@@ -19,7 +19,7 @@ namespace GitExample
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "klk";
+            textBox1.Text = "hola";
         }
     }
 }
